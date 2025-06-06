@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kiran </h1>
-![Static Badge](https://img.shields.io/badge/Kiran-J_Kumar-blue)
+<h2 align="left">Hi 👋, I'm  Kiran</h2>   
 
-<h4 align="center">Passionate Backend Developer | 8+ years of experience in Java, Spring Boot & scalable architectures </h4>
+
+<h4 align="left">Passionate Backend Developer | 8+ years of experience in Java, Spring Boot & scalable architectures </h4>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
