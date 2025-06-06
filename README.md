@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran</h1>
-<h3 align="center">Passionate Backend Developer | 8+ years of experience in Java, Spring Boot & scalable architectures | Strong foundation in Data Structures & Algorithms and System Design</h3>
+<h3 align="center">Passionate Backend Developer | 8+ years of experience in Java, Spring Boot & scalable architectures </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranjkumar&label=Profile%20views&color=0e75b6&style=flat" alt="kiranjkumar" /> </p>
 
