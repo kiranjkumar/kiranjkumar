@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F58E&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+Python;" alt="Typing SVG" />
+</p>
+
 # 👋 Hey there, I'm Kiran J Kumar!
 
 🎯 **Backend Developer | Java Enthusiast | System Design Buff**
@@ -19,14 +23,20 @@ Welcome to my GitHub profile! I'm a passionate software developer with over 8 ye
 
 ---
 
+## 📊 GitHub Stats
+
+![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranjkumar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranjkumar&layout=compact&theme=radical)
+![Visitors](https://komarev.com/ghpvc/?username=kiranjkumar&style=for-the-badge)
+
+---
+
 ## 💻 Tech Stack at a Glance
 
 - **Languages:** Java, Python  
 - **Frameworks:** Spring Boot, Apache Spark  
 - **Databases:** MySQL, PostgreSQL, SQL Server, VoltDB  
 - **Cloud & DevOps:** AWS, Docker, Maven, Git  
-
-Whether it's designing RESTful APIs, optimizing data pipelines, or simplifying complex system flows—I'm all in.
 
 ---
 
